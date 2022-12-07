@@ -10,9 +10,15 @@ For periodic execution, it is recommended schedule with cron, as the example bel
 Following an example of output data.
 
 2022-12-07 10:00 1002 1.70
+
 2022-12-07 10:05 1002 1.70
+
 2022-12-07 10:10 1136 1.90
+
 2022-12-07 10:15 1136 1.90
+
 2022-12-07 10:20 1133 2.0
+
 2022-12-07 10:25 1142 2.20
+
 2022-12-07 10:30 1142 2.20
